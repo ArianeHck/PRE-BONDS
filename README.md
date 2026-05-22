@@ -23,15 +23,12 @@ This project compares 4 fNIRS preprocessing pipelines on a parent-child hypersca
 
 ## Dataset
 
-Bizzego, A., Gabrieli, G., Azhari, A., Setoh, P., & Esposito, G. (2022). Dataset of parent-child hyperscanning functional near-infrared spectroscopy recordings. *Scientific Data*, 9, 625. https://doi.org/10.1038/s41597-022-01751-2
+- Bizzego, A., Gabrieli, G., Azhari, A., Setoh, P., & Esposito, G. (2022). Dataset of parent-child hyperscanning functional near-infrared spectroscopy recordings. *Scientific Data*, 9, 625. https://doi.org/10.1038/s41597-022-01751-2
+- Esposito, G., Gabrieli, G., Azhari, A., & Bizzego, A. (2019). Replication Data for: Parenting Stress Undermines Mother-Child Brain-to-Brain Synchrony: A Hyperscanning Study (V1) [Data set]. DR-NTU (Data). https://doi.org/10.21979/N9/CTR0YX 
 
 ## Requirements (Python)
 
-mne
-pywt
-pycwt
-scipy
-numpy
+mne ; pywt ; pycwt ; scipy ; numpy
 pandas
 
 ## Contact
