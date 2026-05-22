@@ -28,8 +28,11 @@ This project compares 4 fNIRS preprocessing pipelines on a parent-child hypersca
 
 ## Requirements (Python)
 
-mne ; pywt ; pycwt ; scipy ; numpy
-pandas
+mne ; pywt ; pycwt ; scipy ; numpy ; pandas
+
+## Usage
+
+Make sure to update the files path on your side
 
 ## Contact
 
