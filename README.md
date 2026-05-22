@@ -32,8 +32,8 @@ mne ; pywt ; pycwt ; scipy ; numpy ; pandas
 
 ## Usage
 
-Make sure to update the files path on your side
+Make sure to update the files path on your side.
 
 ## Contact
 
-LaPsyDÉ — Université Paris Cité
+LaPsyDÉ - Université Paris Cité
